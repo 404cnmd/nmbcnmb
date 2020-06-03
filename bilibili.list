@@ -1,14 +1,15 @@
+  
 # > Bilibili
-USER-AGENT,bili*
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
+user-agent, *bili*, bilibili
+host-suffix, acg.tv, bilibili
+host-suffix, acgvideo.com, bilibili
+host-suffix, b23.tv, bilibili
+host-suffix, biliapi.com, bilibili
+host-suffix, biliapi.net, bilibili
+host-suffix, bilibili.com, bilibili
+host-suffix, bilibili.tv, bilibili
+host-suffix, biligame.com, bilibili
+host-suffix, biligame.net, bilibili
+host-suffix, bilivideo.com, bilibili
+host-suffix, hdslb.com, bilibili
+host-suffix, im9.com, bilibili
