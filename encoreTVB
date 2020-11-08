@@ -1,0 +1,5 @@
+# > encoreTVB
+user-agent,encoreTVB*
+host-suffix,encoretvb.com
+host,edge.api.brightcove.com
+host,bcbolt446c5271-a.akamaihd.net
